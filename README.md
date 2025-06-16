@@ -1,7 +1,7 @@
 # Real-Time Chat App
 A full-stack real-time chat application built with MERN stack, using Socket.io for instant messaging and TailwindCSS + DaisyUI for modern UI components.
 
-## [Live Server](https://bubbletalk-chatapp-6.onrender.com/)
+## [Live Server](https://bubbletalkchat-app.onrender.com/login)
 
 ## Tech Stack Used : 
 ### Frontend: 
