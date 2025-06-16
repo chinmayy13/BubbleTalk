@@ -1,5 +1,6 @@
 # Full Stack Realtime Chat App
 
+## [Live Server](https://bubbletalk-chatapp-6.onrender.com/)
 
 ### Tech Stack Used : MERN + Socket.io + TailwindCSS + DaisyUI
 ### Authentication && Authorization with JWT
